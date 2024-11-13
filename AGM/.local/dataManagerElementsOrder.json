@@ -12,7 +12,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "Script_path&Sequence_11",
+        "Script_name&Sequence_11",
         "folder_path&Sequence_11",
         "file_path&Sequence_11"
       ],
